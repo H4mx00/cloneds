@@ -1,0 +1,8 @@
+{
+  "name": "Makemycv Replica",
+  "description": "A responsive pixel-perfect replication of the Makemycv landing page.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
